@@ -27,7 +27,7 @@ Make sure you have `npm` and `composer` on your local machine
 
 ## Built With
 
-* [Laravel](https://laravel.com/) - Beautiful Php framework
+* [Laravel](https://localhost:8000) - Beautiful Php framework
 * [Vue](https://vuejs.org/) - A Great reactive Js framework
 * [Vuex](https://vuejs.org/) - Vuejs state management made simple
 * [Bootstrap](https://getbootstrap.com) - A beautiful css framework
